@@ -13,7 +13,7 @@
 ## 🛠 **Tecnologias & Ferramentas em estudo**  
 
 ### 👨‍💻 **Linguagens & Frameworks**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](URL-DO-BADGE)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)  
 
