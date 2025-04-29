@@ -18,4 +18,11 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+## 📚 Meus Projetos de Estudo
+
+Confira meus repositórios de estudo:
+- [JavaScript Básico](link-para-repositorio)
+- [Vue.js Introdução](link-para-repositorio)
+- [TypeScript Fundamentos](link-para-repositorio)
+
 
